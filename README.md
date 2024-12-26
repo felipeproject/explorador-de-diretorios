@@ -47,5 +47,5 @@ Exemplo de arquivo `config.json`:
 ```json
 {
     "pastas_ignoradas": ["temp", "node_modules", ".git"],
-    "extensoes_ignoradas": [".git", ".hj"]
+    "extensoes_ignoradas": [".git", ".env"]
 }
