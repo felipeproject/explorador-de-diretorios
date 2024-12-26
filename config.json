@@ -1,0 +1,9 @@
+{
+    "pastas_ignoradas": [
+        ".git",
+        "node_modules"
+    ],
+    "extensoes_ignoradas": [
+        "strutura.txt"
+    ]
+}
